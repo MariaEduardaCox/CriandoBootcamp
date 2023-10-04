@@ -7,8 +7,7 @@ estão participando.
 💻**Construção**
 
 A construção do código foi realizado com a linguagem de programação java
-com segmentos de programação orientada a objetos, o mesmo não possui uma "interface" visual,
-então a execução e testes são via console. 
+com segmentos de programação orientada a objetos.
 
 📋**Pré-requisitos**
 
