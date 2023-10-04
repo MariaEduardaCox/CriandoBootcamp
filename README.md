@@ -4,7 +4,13 @@ O projeto possui o intuito de simular a criação de um bootcamp semelhante
 aos da plataforma DIO contendo cursos, mentorias e os desenvolvedores que
 estão participando.
 
-💻**Pré-requisitos**
+💻**Construção**
+
+A construção do código foi realizado com a linguagem de programação java
+com segmentos de programação orientada a objetos, o mesmo não possui uma "interface" visual,
+então a execução e testes são via console. 
+
+📋**Pré-requisitos**
 
 Java Jdk
 
