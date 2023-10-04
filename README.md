@@ -18,7 +18,7 @@ Para inicializar em seu computador:
 
 2º escolha entre https ou ssh e clique no símbolo ao lado para copiar
 
-3º vá para pasta de sua preferência no computador, aperte o botão direito e com o gitbash
+3º vá para pasta de sua preferência no computador, aperte o botão direito do mouse e com o gitbash
 instalado, clique e escreva da seguinte forma: git clone *url do projeto*
 
 4º feito! Agora inicie o softtware recomendado e abra a pasta do projeto e está pronto para execução!
