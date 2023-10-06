@@ -6,14 +6,15 @@ estão participando.
 
 💻**Construção**
 
-A construção do código foi realizado com a linguagem de programação java
-com segmentos de programação orientada a objetos.
+Java 
+
+Netbeans 8.2
 
 📋**Pré-requisitos**
 
 Java Jdk
 
-Netbeans 8.2
+IDE de preferência
 
 ▶️**Instalação**
 
